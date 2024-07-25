@@ -1,5 +1,5 @@
 * 👋 Hey! I’m Maria!
-* 👀 I am an aspiring Junior Software Developer
+* 👀 I am an aspiring Software Developer
 * 🌱 I’m currently developing my coding skills
 * 📫 You reach me on maria37.longe@gmail.com
 * ⚡ Fun fact: I am also a model!
